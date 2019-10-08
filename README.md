@@ -1,4 +1,4 @@
-![All about the Winter and Summer!](3100983902_4540be2aae_b.jpg "Season")
+![All about the Winter and Summer!](images/Winter_and_Summer.jpg "Season")
 # The debate between the winter and summer
 This is the argue about the winnter and summer, that each of season have their beauty.
 
